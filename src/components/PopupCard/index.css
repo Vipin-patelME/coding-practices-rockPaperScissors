@@ -1,0 +1,10 @@
+.rules-cont {
+  height: 400px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.rules-img {
+  height: 400px;
+}

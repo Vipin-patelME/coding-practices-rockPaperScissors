@@ -1,7 +1,7 @@
 import './App.css'
 
-import ScoreCardHeader from './components/ScoreCardHeader'
+import GameCard from './components/GameCard'
 
-const App = () => <ScoreCardHeader />
+const App = () => <GameCard />
 
 export default App

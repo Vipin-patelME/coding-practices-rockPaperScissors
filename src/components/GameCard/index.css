@@ -1,0 +1,111 @@
+.main-cont {
+  min-height: 100vh;
+  background-size: cover;
+  background-color: #223a5f;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.header-card {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+  height: 200px;
+  border: 2px solid #ffffff;
+  border-radius: 8px;
+}
+.game-item-cont {
+  color: #ffffff;
+  font-family: 'bree serif';
+  margin-left: 30px;
+}
+.score-cont {
+  height: 140px;
+  width: 200px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 30px;
+}
+.rock-scissors-cont {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 50px;
+  list-style: none;
+  width: 60%;
+}
+.btn-image {
+  background-color: transparent;
+  border-style: none;
+}
+.score {
+  font-family: 'Roboto';
+}
+.btn-image-style {
+  height: 250px;
+  width: 250px;
+}
+.rules-btn-cont {
+  width: 100%;
+}
+.rules-btn {
+  height: 30px;
+  width: 70px;
+  border-radius: 6px;
+  color: #223a5f;
+  font-family: 'Roboto';
+  background-color: #ffffff;
+  border-style: none;
+  font-weight: 510;
+  margin-left: 90%;
+  margin-bottom: 30px;
+}
+.main-result-cont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.choice-image-cont {
+  display: flex;
+}
+.choosed-img {
+  height: 250px;
+  width: 250px;
+}
+.result-img-card {
+  font-family: 'Roboto';
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 24px;
+  font-weight: 510;
+  margin: 50px;
+}
+.status-para {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 500;
+}
+.play-again-btn {
+  height: 30px;
+  width: 130px;
+  font-family: 'Roboto';
+  color: #223a5f;
+  border-radius: 8px;
+  font-weight: 510;
+  border-style: none;
+}
+.play-again-btn-cont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 40px;
+}
